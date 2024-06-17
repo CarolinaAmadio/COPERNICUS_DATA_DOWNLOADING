@@ -2,6 +2,9 @@
 Glider Data GitHub Package. 
 
 Table of Contents:
-Download
-Data Pre-processing
-Data Visualization
+
+1) Download
+
+2) Data Pre-processing
+
+3) Data Visualization
