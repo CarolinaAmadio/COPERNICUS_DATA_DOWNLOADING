@@ -1,0 +1,7 @@
+# Ignore all files table and figures
+*.txt
+*.csv
+*.png
+
+# Ignore the data directory SUPERGLIDER/
+SUPERGLIDER/
