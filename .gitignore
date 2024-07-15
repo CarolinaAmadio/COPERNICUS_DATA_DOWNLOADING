@@ -3,5 +3,6 @@
 *.csv
 *.png
 
-# Ignore the data directory SUPERGLIDER/
+# Ignore the data directories
 SUPERGLIDER/
+profiles/
